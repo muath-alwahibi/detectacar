@@ -40,3 +40,9 @@ Law enforcement — monitor traffic volume in specific zones
 
 🔍 Design Decisions
 Initially tested with a pothole/pressure sensor — abandoned because it picked up all movement regardless of object type. Switched to ultrasonic sensing, which allowed precise range and height calibration to isolate vehicle-sized objects only.
+
+
+## 👥 Team
+
+- **Maadh Ahmed Al-Wahaibi** — UTAS, Muscat, Oman
+- **Maryam Salim Al Khadhouri** — UTAS, Muscat, Oman
